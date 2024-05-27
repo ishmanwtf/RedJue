@@ -16,11 +16,11 @@
     <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/github/181717" />
   </picture>
 </a>
-<a href="https://twitter.com/redjue_fj" title="twitter">
+<a href="https://twitter.com/redjue_fj" title="x">
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/twitter/181717">
-    <img align="left" alt="twitter" width="22px" src="https://cdn.simpleicons.org/twitter/181717" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/181717">
+    <img align="left" alt="x" width="22px" src="https://cdn.simpleicons.org/x/181717" />
   </picture>
 </a>
 <a href="https://juejin.cn/user/3280598429871159" title="juejin">
