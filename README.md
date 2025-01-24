@@ -1,4 +1,4 @@
-### Hey 👋, I'm RedJue 
+### Hey 👋, I'm i 
 
 > A Full Stack Engineer base on HangZhou China.
 > <br/>
